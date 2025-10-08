@@ -1,0 +1,20 @@
+name: rag_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - fastapi
+    - uvicorn[standard]
+    - streamlit
+    - langchain
+    - langchain-community
+    - langchain-openai
+    - pypdf
+    - python-docx
+    - python-multipart
+    - chromadb
+    - sentence-transformers
+    - openai
+    - python-dotenv  # 用于安全地管理环境变量

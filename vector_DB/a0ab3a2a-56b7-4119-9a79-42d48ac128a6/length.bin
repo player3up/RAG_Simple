@@ -1,0 +1,13 @@
+m and task t when using instruction i, then the
+aggregated sensitivity score σti is given by
+σti = 1
+|M|
+X
+m∈M
+σtmi
+We choose to avoid more sophisticated aggre-
+gation strategies like relative gain for sensitivity
+metrics since standard deviations are already sec-
+ondary metrics making it unintuitive to discuss the
+relative gain of the standard deviation obtained us-
+ing a method over the ave
