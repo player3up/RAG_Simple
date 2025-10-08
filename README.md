@@ -1,10 +1,10 @@
 📚 RAG-Powered Knowledge Base Q&A System
 一个基于检索增强生成（RAG）技术的智能知识库问答系统，允许用户上传文档（PDF, TXT, DOCX），并通过自然语言提问，从文档中获取准确、有据可查的答案。
 
-Python
-FastAPI
-Streamlit
-License: MIT
+ `Python`
+ `FastAPI `
+ `Streamlit`
+ `License: MIT`
 
 ✨ 功能特性
 📄 多格式文档支持：支持上传和处理 PDF、TXT、DOCX 格式的文档。
